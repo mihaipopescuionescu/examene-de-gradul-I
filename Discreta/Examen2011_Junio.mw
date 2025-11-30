@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Worksheet>
+<Version major="13" minor="0"/>
+<Label-Scheme value="2" prefix=""/>
+<View-Properties presentation="false"></View-Properties>
+<MapleNet-Properties elisiondigitsbefore="100" labelling="true" indentamount="4" elisiontermsthreshold="10000" ansi="false" errorbreak="1" useclientjvm="true" echo="1" imaginaryunit="I" labelwidth="20" plotdriver="openviz" elisiondigitsafter="100" plotoutput="terminal" rtablesize="10" elisiontermsbefore="100" elisiondigitsthreshold="10000" typesetting="standard" plotdevice="inline" verboseproc="1" showassumed="1" errorcursor="false" longdelim="true" plotoptions="" quiet="false" elisiontermsafter="100" screenwidth="79" preplot="" prettyprint="3" displayprecision="-1" warnlevel="3" screenheight="25" latexwidth="6.0" postplot="" prompt="&gt; " ShowLabels="true"/>
+<Styles><Font name="Ordered List 1" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Annotation Text" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 2" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 3" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 4" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Ordered List 5" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Author" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Annotation Title" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Warning" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Maple Input Placeholder" background="[255,255,255]" bold="true" executable="true" family="Monospaced" foreground="[200,0,200]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="true"/>
+<Font name="Maple Plot" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Code" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[255,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Line Printed Output" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Text Output" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Diagnostic" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[40,120,40]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Inert Output" background="[255,255,255]" bold="false" executable="true" family="Times New Roman" foreground="[144,144,144]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Normal" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Hyperlink" background="[255,255,255]" bold="false" executable="false" family="Serif" foreground="[0,128,128]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Maple Output" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Dash Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Math" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Maple Input" background="[255,255,255]" bold="true" executable="true" family="Monospaced" foreground="[255,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Output" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="2D Input" background="[255,255,255]" bold="false" executable="true" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="HyperlinkError" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[255,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Header and Footer" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="10" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Error" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[255,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Title" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Page Number" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="10" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 1" background="[255,255,255]" bold="true" executable="false" family="Serif" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="18" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Text" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Bullet Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 4" background="[255,255,255]" bold="false" executable="false" family="Serif" foreground="[0,0,0]" italic="true" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Equation Label" background="[255,255,255]" bold="true" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 3" background="[255,255,255]" bold="true" executable="false" family="Serif" foreground="[0,0,0]" italic="true" opaque="false" readonly="false" size="14" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="Heading 2" background="[255,255,255]" bold="true" executable="false" family="Serif" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="16" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Font name="HyperlinkWarning" background="[255,255,255]" bold="false" executable="false" family="Monospaced" foreground="[0,0,255]" italic="false" opaque="false" readonly="true" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="Dictionary Hyperlink" background="[255,255,255]" bold="false" executable="false" family="Serif" foreground="[147,0,15]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="true" placeholder="false"/>
+<Font name="List Item" background="[255,255,255]" bold="false" executable="false" family="Times New Roman" foreground="[0,0,0]" italic="false" opaque="false" readonly="false" size="12" subscript="false" superscript="false" underline="false" placeholder="false"/>
+<Layout name="Ordered List 1" alignment="left" bullet="numeric" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 2" alignment="left" bullet="alphabetic" firstindent="0" leftmargin="36" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 3" alignment="left" bullet="roman" firstindent="0" leftmargin="72" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 4" alignment="left" bullet="ALPHABETIC" firstindent="0" leftmargin="108" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Ordered List 5" alignment="left" bullet="ROMAN" firstindent="0" leftmargin="144" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="-1" bulletsuffix=""/>
+<Layout name="Author" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="8" spacebelow="8" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Warning" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Annotation Title" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="12" spacebelow="12" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Maple Plot" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Line Printed Output" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="any" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Text Output" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="newline" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Diagnostic" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="any" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Normal" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Maple Output" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.3" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Dash Item" alignment="left" bullet="dash" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="HyperlinkError" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Error" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Title" alignment="centred" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="12" spacebelow="12" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 1" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="8" spacebelow="4" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Bullet Item" alignment="left" bullet="dot" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 4" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 3" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="Heading 2" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="8" spacebelow="2" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="HyperlinkWarning" alignment="left" bullet="none" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="0" spacebelow="0" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Layout name="List Item" alignment="left" bullet="indent" firstindent="0" leftmargin="0" rightmargin="0" linespacing="0.0" spaceabove="3" spacebelow="3" linebreak="space" pagebreak-before="false" initial="0" bulletsuffix=""/>
+<Pencil-style name="Pencil 5" pen-color="[255,0,0]" pen-height="5.0" pen-width="5.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 4" pen-color="[0,0,255]" pen-height="3.0" pen-width="3.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 3" pen-color="[0,0,0]" pen-height="3.0" pen-width="3.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 2" pen-color="[0,0,255]" pen-height="1.0" pen-width="1.0" pen-opacity="1.0"/>
+<Pencil-style name="Pencil 1" pen-color="[0,0,0]" pen-height="1.0" pen-width="1.0" pen-opacity="1.0"/>
+<Highlighter-style name="Highlighter 2" pen-color="[255,204,0]" pen-height="14.0" pen-width="14.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 1" pen-color="[255,153,255]" pen-height="12.0" pen-width="8.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 4" pen-color="[0,255,255]" pen-height="32.0" pen-width="32.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 3" pen-color="[51,255,0]" pen-height="24.0" pen-width="24.0" pen-opacity="0.8"/>
+<Highlighter-style name="Highlighter 5" pen-color="[255,255,0]" pen-height="48.0" pen-width="48.0" pen-opacity="0.8"/>
+</Styles>
+<Task-table>
+    <Task-category name="&lt;default&gt;">
+    </Task-category>
+</Task-table>
+<Annotation-table>
+    <Annotation-category name="&lt;default&gt;">
+    </Annotation-category>
+</Annotation-table>
+<Task>
+</Task>
+<Group labelreference="L3" drawlabel="true">
+<Input>
+<Text-field style="Text" foreground="[255,0,255]" layout="Normal" alignment="centred"><Font encoding="UTF-8" foreground="[255,0,255]" size="18">Exame de pr\303\241cticas de Matem\303\241tica Discreta con MAPLE</Font></Text-field>
+<Text-field style="Text" foreground="[255,0,255]" layout="Normal" alignment="centred"><Font encoding="UTF-8" foreground="[255,0,255]" size="14">27 de xu\303\261o de 2011</Font></Text-field>
+</Input>
+</Group>
+<Section collapsed="false" MultipleChoiceAnswerIndex="-1" MultipleChoiceRandomizeChoices="false" TrueFalseAnswerIndex="-1" EssayAnswerRows="5" EssayAnswerColumns="60"><Title>
+<Text-field style="Heading 1" layout="Heading 1">Exercicio 1  (1 punto)</Text-field></Title>
+<Group labelreference="L5" drawlabel="true">
+<Input>
+<Text-field style="Text" layout="Normal"><Font encoding="UTF-8">Como ben sabes, cada un de n\303\263s temos uns apelidos que nos relaciona coa familia, e un nome que nos singularizan dentro desta.</Font></Text-field>
+<Text-field style="Text" layout="Normal"></Text-field>
+<Text-field style="Text" layout="Normal"><Font encoding="UTF-8">Escribe nesta folla correctamente os teus datos no formato : apelido1 apelido2, nome. A continuaci\303\263n garda o ficheiro co nome apelido1_apelido2_nome.mw, onde apelido1, apelido2 e nome son os teus, e contin\303\272a coa soluci\303\263n dos restantes exercicios</Font></Text-field>
+<Text-field style="Text" layout="Normal"></Text-field>
+<Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group>
+</Section>
+<Section collapsed="false" MultipleChoiceAnswerIndex="-1" MultipleChoiceRandomizeChoices="false" TrueFalseAnswerIndex="-1" EssayAnswerRows="5" EssayAnswerColumns="60"><Title>
+<Text-field style="Heading 1" layout="Heading 1">Exercicio 1   (3 puntos)</Text-field></Title>
+<Group labelreference="L8" drawlabel="true">
+<Input>
+<Text-field style="Text" layout="Normal"><Font encoding="UTF-8">Lembrar\303\241s que a base do algoritmo de Euclides para o c\303\241lculo do m\303\241ximo com\303\272n divisor de dous n\303\272meros \303\251 o seguinte resultado:
+</Font>m.c.d.( <Font italic="true">a</Font>, <Font italic="true">b </Font>) = m.c.d.<Font italic="true"> </Font>(<Font italic="true">b</Font>, <Font italic="true">a</Font> <Font bold="true">mod</Font> <Font italic="true">b</Font> ).</Text-field>
+<Text-field style="Text" layout="Normal"></Text-field>
+<Text-field style="Text" layout="Normal"><Font encoding="UTF-8">Constr\303\272e un algoritmo </Font><Font bold="true">recursivo</Font><Font encoding="UTF-8"> para determinar o m\303\241ximo com\303\272n divisor de dous n\303\272meros.</Font></Text-field>
+</Input>
+</Group><Presentation-Block>
+<Group labelreference="L39" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">fact:=proc(n)
+   if n=1 then 1
+   else n*fact(n-1)
+   end if;
+end;</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVElZmFjdEYnLyUnaXRhbGljR1EldHJ1ZUYnLyUsbWF0aHZhcmlhbnRHUSdpdGFsaWNGJy1JI21vR0YkNi1RIzo9RicvRjNRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0Y9LyUpc3RyZXRjaHlHRj0vJSpzeW1tZXRyaWNHRj0vJShsYXJnZW9wR0Y9LyUubW92YWJsZWxpbWl0c0dGPS8lJ2FjY2VudEdGPS8lJ2xzcGFjZUdRLDAuMjc3Nzc3OGVtRicvJSdyc3BhY2VHRkwtRiM2Ky1GNjYvUSVwcm9jRicvJSVib2xkR0YxL0YzUSVib2xkRicvJStmb250d2VpZ2h0R0ZXRjtGPkZARkJGREZGRkgvRktRJjAuMGVtRicvRk5GZW4tSShtZmVuY2VkR0YkNiQtRiM2Ji1GLDYlUSJuRidGL0YyLyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0Y9RjlGOS1JJ21zcGFjZUdGJDYmLyUnaGVpZ2h0R1EmMC4wZXhGJy8lJndpZHRoR1EmMC41ZW1GJy8lJmRlcHRoR0Zpby8lKmxpbmVicmVha0dRMWZpcnN0cHJvY25ld2xpbmVGJy1GIzYoLUYjNi0tRjY2L1EjaWZGJ0ZURlZGWEY7Rj5GQEZCRkRGRkZIRlpGZm4tRmVvNiZGZ29Gam9GXXAvRmBwUSVhdXRvRictRiM2KEZcby1GNjYtUSI9RidGOUY7Rj5GQEZCRkRGRkZIRkpGTS1JI21uR0YkNiRRIjFGJ0Y5Rl9vRmJvRjlGaXAtRjY2L1EldGhlbkYnRlRGVkZYRjtGPkZARkJGREZGRkhGWkZmbi1GZW82JkZnb0Zqb0ZdcC9GYHBRNmluY3JlYXNlaW5kZW50bmV3bGluZUYnRmJxLUZlbzYmRmdvRmpvRl1wL0ZgcFE2ZGVjcmVhc2VpbmRlbnRuZXdsaW5lRidGX29GYm9GOS1GIzYpLUY2Ni9RJWVsc2VGJ0ZURlZGWEY7Rj5GQEZCRkRGRkZIRlpGZm5GaXEtRiM2JkZcby1GNjYtUSIqRidGOUY7Rj5GQEZCRkRGRkZIL0ZLUSwwLjE2NjY2NjdlbUYnL0ZORlxzLUYjNihGKy1GNjYtUTAmQXBwbHlGdW5jdGlvbjtGJ0Y5RjtGPkZARkJGREZGRkhGWkZmbi1GaG42JC1GIzYmLUYjNiZGXG8tRjY2LVEqfiYjODcyMjt+RidGOUY7Rj5GQEZCRkRGRkZIRlpGZm5GYnFGOUZfb0Zib0Y5RjlGX29GYm9GOUY5Rl1yRl9vRmJvRjktRjY2L1EnZW5kfmlmRidGVEZWRlhGO0Y+RkBGQkZERkZGSEZaRmZuRl9vRmJvRjlGXXItRjY2L1EpZW5kfnByb2NGJ0ZURlZGWEY7Rj5GQEZCRkRGRkZIRlpGZm5GX29GYm9GOUZfb0Zib0Y5">Zio2I0kibkc2IkYlRiVGJUAlL0YkIiIiRigqJkYkRigtSSVmYWN0R0YlNiMsJkYkRihGKCEiIkYoRiVGJUYl</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L40" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">fact(5);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiQ/Ig==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L41" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">5!;</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiQ/Ig==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L42" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">mcd:=proc(a,b)
+   if b=0 then a
+   else mcd(b,a mod b)
+   end if;
+end;</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEkbWNkRicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LVEjOj1GJy9GM1Enbm9ybWFsRicvJSZmZW5jZUdRJmZhbHNlRicvJSpzZXBhcmF0b3JHRj0vJSlzdHJldGNoeUdGPS8lKnN5bW1ldHJpY0dGPS8lKGxhcmdlb3BHRj0vJS5tb3ZhYmxlbGltaXRzR0Y9LyUnYWNjZW50R0Y9LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTC1GIzYrLUY2Ni9RJXByb2NGJy8lJWJvbGRHRjEvRjNRJWJvbGRGJy8lK2ZvbnR3ZWlnaHRHRldGO0Y+RkBGQkZERkZGSC9GS1EmMC4wZW1GJy9GTkZlbi1JKG1mZW5jZWRHRiQ2JC1GIzYoLUYsNiVRImFGJ0YvRjItRjY2LVEiLEYnRjlGOy9GP0YxRkBGQkZERkZGSEZaL0ZOUSwwLjMzMzMzMzNlbUYnLUYsNiVRImJGJ0YvRjIvJStmb3JlZ3JvdW5kR1EoWzAsMCwwXUYnLyUpcmVhZG9ubHlHRj1GOUY5LUknbXNwYWNlR0YkNiYvJSdoZWlnaHRHUSYwLjBleEYnLyUmd2lkdGhHUSYwLjVlbUYnLyUmZGVwdGhHRmJwLyUqbGluZWJyZWFrR1ExZmlyc3Rwcm9jbmV3bGluZUYnLUYjNigtRiM2LS1GNjYvUSNpZkYnRlRGVkZYRjtGPkZARkJGREZGRkhGWkZmbi1GXnA2JkZgcEZjcEZmcC9GaXBRJWF1dG9GJy1GIzYoRmVvLUY2Ni1RIj1GJ0Y5RjtGPkZARkJGREZGRkhGSkZNLUkjbW5HRiQ2JFEiMEYnRjlGaG9GW3BGOUZicS1GNjYvUSV0aGVuRidGVEZWRlhGO0Y+RkBGQkZERkZGSEZaRmZuLUZecDYmRmBwRmNwRmZwL0ZpcFE2aW5jcmVhc2VpbmRlbnRuZXdsaW5lRidGXG8tRl5wNiZGYHBGY3BGZnAvRmlwUTZkZWNyZWFzZWluZGVudG5ld2xpbmVGJ0Zob0ZbcEY5LUYjNiktRjY2L1ElZWxzZUYnRlRGVkZYRjtGPkZARkJGREZGRkhGWkZmbkZici1GIzYoRistRjY2LVEwJkFwcGx5RnVuY3Rpb247RidGOUY7Rj5GQEZCRkRGRkZIRlpGZm4tRmhuNiQtRiM2KEZlb0Zfby1GIzYoLUYsNiVRJG1vZEYnRi9GMkZhc0ZnbkZob0ZbcEY5RmhvRltwRjlGOUZob0ZbcEY5RmZyRmhvRltwRjktRjY2L1EnZW5kfmlmRidGVEZWRlhGO0Y+RkBGQkZERkZGSEZaRmZuRmhvRltwRjlGZnItRjY2L1EpZW5kfnByb2NGJ0ZURlZGWEY7Rj5GQEZCRkRGRkZIRlpGZm5GaG9GW3BGOUZob0ZbcEY5">Zio2JEkiYUc2IkkiYkdGJUYlRiVGJUAlL0YmIiIhRiQtSSRtY2RHRiU2JEYmLUkkbW9kR0YlRiNGJUYlRiU=</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L37" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">mcd(2793467124789,12873128787128247);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiNM</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L38" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">igcd(2793467124789,12873128787128247);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">IiNM</Equation></Text-field>
+</Output>
+</Group></Presentation-Block>
+<Group labelreference="L12" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group>
+</Section>
+<Section collapsed="false" MultipleChoiceAnswerIndex="-1" MultipleChoiceRandomizeChoices="false" TrueFalseAnswerIndex="-1" EssayAnswerRows="5" EssayAnswerColumns="60"><Title>
+<Text-field style="Heading 1" layout="Heading 1">Exercicio 3   (6 puntos)</Text-field></Title>
+<Group labelreference="L14" drawlabel="true">
+<Input>
+<Text-field style="Text" layout="Normal">Do paquete <Font bold="true" foreground="[255,0,0]">combinat</Font><Font encoding="UTF-8"> vimos mas pr\303\241cticas comandos como </Font><Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzZRLUkjbWlHRiQ2JlEpYmlub21pYWxGJy8lJ2l0YWxpY0dRJXRydWVGJy8lK2ZvcmVncm91bmRHUSpbMCwwLDI1NV1GJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSSNtb0dGJDYuUSIsRidGMi9GNlEnbm9ybWFsRicvJSZmZW5jZUdRJmZhbHNlRicvJSpzZXBhcmF0b3JHRjEvJSlzdHJldGNoeUdGQC8lKnN5bW1ldHJpY0dGQC8lKGxhcmdlb3BHRkAvJS5tb3ZhYmxlbGltaXRzR0ZALyUnYWNjZW50R0ZALyUnbHNwYWNlR1EmMC4wZW1GJy8lJ3JzcGFjZUdRLDAuMzMzMzMzM2VtRictRjk2LlEifkYnRjJGPEY+L0ZCRkBGQ0ZFRkdGSUZLRk0vRlFGTy1GLDYmUSdjaG9vc2VGJ0YvRjJGNS1GOTYvRjtGL0YyRjVGPkZBRkNGRUZHRklGS0ZNRlAtRjk2L0ZVRi9GMkY1Rj5GVkZDRkVGR0ZJRktGTUZXRmduLUYsNiZRKW51bWJjb21iRidGL0YyRjVGZW5GZ24tRiw2JlEpbnVtYnBlcm1GJ0YvRjJGNUY4RlMtRiw2JlEocGVybXV0ZUYnRi9GMkY1RjgtRjk2LUZVRjxGPkZWRkNGRUZHRklGS0ZNRldGYm8tSSdtc3BhY2VHRiQ2Ji8lJ2hlaWdodEdRJjAuMGV4RicvJSZ3aWR0aEdGTy8lJmRlcHRoR0Zpby8lKmxpbmVicmVha0dRKG5ld2xpbmVGJy1GZW82JkZnb0Zqb0ZccC9GX3BRJWF1dG9GJy1GLDYlUSVwYXJhRicvRjBGQEY8RmJvLUYsNiVRLXRyYWJhbGxhcm1vc0YnRmhwRjxGYm8tRiw2JVEjb3NGJ0ZocEY8RmJvLUYsNiVRKnByb2JsZW1hc0YnRmhwRjxGYm8tRiw2JVEjZGVGJ0ZocEY8RmJvLUYsNiVRMW9yZGVuYWNpJiMyNDM7bnNGJ0ZocEY8RmJvLUYsNiVRImVGJ0ZocEY8RmJvLUYsNiVRMGV4dHJhY2kmIzI0Mztuc0YnRmhwRjwtRjk2LVEiO0YnRjxGPkZBRkNGRUZHRklGS0ZNL0ZRUSwwLjI3Nzc3NzhlbUYnRmJvRmhxRmJvLUYsNiVRJ291dHJvc0YnRmhwRjxGYm8tRiw2JVElY29tb0YnRmhwRjwtRjk2LUY7RjxGPkZBRkNGRUZHRklGS0ZNRlAtRiw2JlEpcmFuZGNvbWJGJ0YvRjJGNUY4LUYsNiZRKXJhbmRwZXJtRidGL0YyRjVGL0Y1">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzZRLUkjbWlHRiQ2JlEpYmlub21pYWxGJy8lJ2l0YWxpY0dRJXRydWVGJy8lK2ZvcmVncm91bmRHUSpbMCwwLDI1NV1GJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSSNtb0dGJDYuUSIsRidGMi9GNlEnbm9ybWFsRicvJSZmZW5jZUdRJmZhbHNlRicvJSpzZXBhcmF0b3JHRjEvJSlzdHJldGNoeUdGQC8lKnN5bW1ldHJpY0dGQC8lKGxhcmdlb3BHRkAvJS5tb3ZhYmxlbGltaXRzR0ZALyUnYWNjZW50R0ZALyUnbHNwYWNlR1EmMC4wZW1GJy8lJ3JzcGFjZUdRLDAuMzMzMzMzM2VtRictRjk2LlEifkYnRjJGPEY+L0ZCRkBGQ0ZFRkdGSUZLRk0vRlFGTy1GLDYmUSdjaG9vc2VGJ0YvRjJGNS1GOTYvRjtGL0YyRjVGPkZBRkNGRUZHRklGS0ZNRlAtRjk2L0ZVRi9GMkY1Rj5GVkZDRkVGR0ZJRktGTUZXRmduLUYsNiZRKW51bWJjb21iRidGL0YyRjVGZW5GZ24tRiw2JlEpbnVtYnBlcm1GJ0YvRjJGNUY4RlMtRiw2JlEocGVybXV0ZUYnRi9GMkY1RjgtRjk2LUZVRjxGPkZWRkNGRUZHRklGS0ZNRldGYm8tSSdtc3BhY2VHRiQ2Ji8lJ2hlaWdodEdRJjAuMGV4RicvJSZ3aWR0aEdGTy8lJmRlcHRoR0Zpby8lKmxpbmVicmVha0dRKG5ld2xpbmVGJy1GZW82JkZnb0Zqb0ZccC9GX3BRJWF1dG9GJy1GLDYlUSVwYXJhRicvRjBGQEY8RmJvLUYsNiVRLXRyYWJhbGxhcm1vc0YnRmhwRjxGYm8tRiw2JVEjb3NGJ0ZocEY8RmJvLUYsNiVRKnByb2JsZW1hc0YnRmhwRjxGYm8tRiw2JVEjZGVGJ0ZocEY8RmJvLUYsNiVRMW9yZGVuYWNpJiMyNDM7bnNGJ0ZocEY8RmJvLUYsNiVRImVGJ0ZocEY8RmJvLUYsNiVRMGV4dHJhY2kmIzI0Mztuc0YnRmhwRjwtRjk2LVEiO0YnRjxGPkZBRkNGRUZHRklGS0ZNL0ZRUSwwLjI3Nzc3NzhlbUYnRmJvRmhxRmJvLUYsNiVRJ291dHJvc0YnRmhwRjxGYm8tRiw2JVElY29tb0YnRmhwRjwtRjk2LUY7RjxGPkZBRkNGRUZHRklGS0ZNRlAtRiw2JlEpcmFuZGNvbWJGJ0YvRjJGNUY4LUYsNiZRKXJhbmRwZXJtRidGL0YyRjVGL0Y1</Equation><Equation executable="false" style="2D Math" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzY2LUknbXNwYWNlR0YkNiYvJSdoZWlnaHRHUSYwLjBleEYnLyUmd2lkdGhHUSYwLjBlbUYnLyUmZGVwdGhHRjAvJSpsaW5lYnJlYWtHUShuZXdsaW5lRictRiw2JkYuRjFGNC9GN1ElYXV0b0YnLUkjbWlHRiQ2JVEkcXVlRicvJSdpdGFsaWNHUSZmYWxzZUYnLyUsbWF0aHZhcmlhbnRHUSdub3JtYWxGJy1JI21vR0YkNi1RIn5GJ0ZELyUmZmVuY2VHRkMvJSpzZXBhcmF0b3JHRkMvJSlzdHJldGNoeUdGQy8lKnN5bW1ldHJpY0dGQy8lKGxhcmdlb3BHRkMvJS5tb3ZhYmxlbGltaXRzR0ZDLyUnYWNjZW50R0ZDLyUnbHNwYWNlR0YzLyUncnNwYWNlR0YzLUY+NiVRJG5vc0YnRkFGREZHLUY+NiVRL3Byb3BvcmNpb25hYmFuRidGQUZERkctRj42JVEoZXZlbnRvc0YnRkFGREZHLUY+NiVRK2FsZWF0b3Jpb3NGJ0ZBRkRGRy1GPjYlUSVwYXJhRidGQUZERkctRj42JVEzY29tcHJvYmFjaSYjMjQzO25zRidGQUZELUZINi1RIi5GJ0ZERktGTUZPRlFGU0ZVRldGWUZlbi8lK2ZvcmVncm91bmRHUSpbMCwwLDI1NV1GJy8lKXJlYWRvbmx5R1EldHJ1ZUYnLyUwZm9udF9zdHlsZV9uYW1lR1EqMkR+T3V0cHV0RidGRA==">LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzY2LUknbXNwYWNlR0YkNiYvJSdoZWlnaHRHUSYwLjBleEYnLyUmd2lkdGhHUSYwLjBlbUYnLyUmZGVwdGhHRjAvJSpsaW5lYnJlYWtHUShuZXdsaW5lRictRiw2JkYuRjFGNC9GN1ElYXV0b0YnLUkjbWlHRiQ2JVEkcXVlRicvJSdpdGFsaWNHUSZmYWxzZUYnLyUsbWF0aHZhcmlhbnRHUSdub3JtYWxGJy1JI21vR0YkNi1RIn5GJ0ZELyUmZmVuY2VHRkMvJSpzZXBhcmF0b3JHRkMvJSlzdHJldGNoeUdGQy8lKnN5bW1ldHJpY0dGQy8lKGxhcmdlb3BHRkMvJS5tb3ZhYmxlbGltaXRzR0ZDLyUnYWNjZW50R0ZDLyUnbHNwYWNlR0YzLyUncnNwYWNlR0YzLUY+NiVRJG5vc0YnRkFGREZHLUY+NiVRL3Byb3BvcmNpb25hYmFuRidGQUZERkctRj42JVEoZXZlbnRvc0YnRkFGREZHLUY+NiVRK2FsZWF0b3Jpb3NGJ0ZBRkRGRy1GPjYlUSVwYXJhRidGQUZERkctRj42JVEzY29tcHJvYmFjaSYjMjQzO25zRidGQUZELUZINi1RIi5GJ0ZERktGTUZPRlFGU0ZVRldGWUZlbi8lK2ZvcmVncm91bmRHUSpbMCwwLDI1NV1GJy8lKXJlYWRvbmx5R1EldHJ1ZUYnLyUwZm9udF9zdHlsZV9uYW1lR1EqMkR+T3V0cHV0RidGRA==</Equation></Text-field>
+<Text-field style="Text" layout="Normal"></Text-field>
+<Text-field style="Text" layout="Normal"><Font encoding="UTF-8">Adem\303\241is, cando hab\303\255a repetici\303\263ns involucradas, vimos que o operador </Font><Font foreground="[0,0,255]">$</Font>, que fai cousas como esta <Font bold="true" foreground="[255,0,0]">$(x,5) = x, x, x, x, x</Font><Font encoding="UTF-8">, eran de axuda, as\303\255 como os operadores relacionados con listas e conxuntos: Por exemplo, </Font><Font bold="true" foreground="[255,0,0]">op(L)</Font> devolve os elementos dunha lista L, e se L e M son listas, con <Font bold="true" foreground="[255,0,0]">[ op(L), op(M)]</Font><Font encoding="UTF-8"> formamos unha nova lista cos elementos de M a continuaci\303\263n dos de L; ou tam\303\251n o operador </Font><Font bold="true" foreground="[255,0,0]">map(f, L)</Font> que lle aplica a funcion <Font bold="true">f</Font><Font italic="true"> </Font><Font encoding="UTF-8"> a t\303\263dolos elementos da lista </Font><Font bold="true">L</Font>.</Text-field>
+<Text-field style="Text" layout="Normal"></Text-field>
+<Text-field style="Text" layout="Normal">Nun torneo entre dous xogadores <Font italic="true">A</Font> e <Font italic="true">B</Font><Font encoding="UTF-8">  ga\303\261a aquel que que primeiro vence en 4 partidos, nos que non pode haber empate. 
+</Font>Mediante <Font bold="true" foreground="[255,0,0]">[a, a, b, a, a]</Font><Font encoding="UTF-8"> denotamos un resultado do torneo que ga\303\261ou o xogador </Font><Font italic="true">A</Font>, por 4 a 1, e no que o xogador <Font italic="true">B</Font>  venceu no terceiro partido. </Text-field>
+<Text-field style="Text" layout="Normal"></Text-field>
+<Text-field style="Text" layout="Normal"><Font bold="true">i) </Font><Font encoding="UTF-8">Representa con MAPLE t\303\263dolos posibles resultados dun torneo que finaliza co resultado 4 a 2, a favor do xogador </Font><Font italic="true">A</Font>.</Text-field>
+<Text-field style="Text" layout="Normal"></Text-field>
+<Text-field style="Text" layout="Normal"><Font bold="true">ii) </Font><Font encoding="UTF-8">Constr\303\272e un procedemento que, para os xogadores </Font><Font italic="true">A</Font> e <Font italic="true">B</Font> e un <Font italic="true">n</Font><Font encoding="UTF-8"> arbitrario, che mostre t\303\263dolos posibles resultados dun torneo que ga\303\261a o xogador </Font><Font italic="true">A,</Font> por ser o primeiro que venceu en <Font italic="true">n</Font> partidos.</Text-field>
+<Text-field style="Text" layout="Normal"></Text-field>
+<Text-field style="Text" layout="Normal"><Font bold="true">iii) </Font><Font encoding="UTF-8">Aplica este procedemento para representar t\303\263dolos posibles resultados da final do torneo de tenis de Wimbledon, nos que </Font><Font bold="true">Nadal</Font><Font encoding="UTF-8"> lle ga\303\261ar\303\255a a </Font><Font bold="true">Djokovic</Font>.</Text-field>
+<Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group>
+<Group labelreference="L52" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">with(combinat);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">N0VJJENoaUc2IkklYmVsbEdGJEkpYmlub21pYWxHRiRJKWNhcnRwcm9kR0YkSSpjaGFyYWN0ZXJHRiRJJ2Nob29zZUdGJEksY29tcG9zaXRpb25HRiRJKWNvbmpwYXJ0R0YkSStkZWNvZGVwYXJ0R0YkSStlbmNvZGVwYXJ0R0YkSSpldWxlcmlhbjFHRiRJKmV1bGVyaWFuMkdGJEkqZmlib25hY2NpR0YkSSpmaXJzdHBhcnRHRiRJKWdyYXljb2RlR0YkSSlpbnR0b3ZlY0dGJEkpbGFzdHBhcnRHRiRJLG11bHRpbm9taWFsR0YkSSluZXh0cGFydEdGJEkpbnVtYmNvbWJHRiRJKW51bWJjb21wR0YkSSludW1icGFydEdGJEkpbnVtYnBlcm1HRiRJKnBhcnRpdGlvbkdGJEkocGVybXV0ZUdGJEkpcG93ZXJzZXRHRiRJKXByZXZwYXJ0R0YkSSlyYW5kY29tYkdGJEkpcmFuZHBhcnRHRiRJKXJhbmRwZXJtR0YkSS1zZXRwYXJ0aXRpb25HRiRJKnN0aXJsaW5nMUdGJEkqc3RpcmxpbmcyR0YkSShzdWJzZXRzR0YkSSl2ZWN0b2ludEdGJA==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L15" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">#Apartado 1:</Text-field>
+</Input>
+</Group><Presentation-Block>
+<Group labelreference="L65" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">choose([a,a,a,a,b,b],6);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">NyM3KEkiYUc2IkkiYUc2IkkiYUc2IkkiYUc2IkkiYkc2IkkiYkc2Ig==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L70" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">L:=permute([a,a,a,a,b,b],6);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEiTEYnLyUnaXRhbGljR1EldHJ1ZUYnLyUsbWF0aHZhcmlhbnRHUSdpdGFsaWNGJy1JI21vR0YkNi1RIzo9RicvRjNRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0Y9LyUpc3RyZXRjaHlHRj0vJSpzeW1tZXRyaWNHRj0vJShsYXJnZW9wR0Y9LyUubW92YWJsZWxpbWl0c0dGPS8lJ2FjY2VudEdGPS8lJ2xzcGFjZUdRLDAuMjc3Nzc3OGVtRicvJSdyc3BhY2VHRkwtSShtZmVuY2VkR0YkNiYtRiM2Qi1GUDYmLUYjNjAtRiw2JVEiYUYnRi9GMi1GNjYtUSIsRidGOUY7L0Y/RjFGQEZCRkRGRkZIL0ZLUSYwLjBlbUYnL0ZOUSwwLjMzMzMzMzNlbUYnRlhGZW5GWEZlbkZYRmVuLUYsNiVRImJGJ0YvRjJGZW5GXW8vJStmb3JlZ3JvdW5kR1EoWzAsMCwwXUYnLyUpcmVhZG9ubHlHRj1GOUY5LyUlb3BlbkdRIltGJy8lJmNsb3NlR1EiXUYnRmVuLUZQNiYtRiM2MEZYRmVuRlhGZW5GWEZlbkZdb0ZlbkZYRmVuRl1vRmBvRmNvRjlGOUZlb0Zob0Zlbi1GUDYmLUYjNjBGWEZlbkZYRmVuRlhGZW5GXW9GZW5GXW9GZW5GWEZgb0Zjb0Y5RjlGZW9GaG9GZW4tRlA2Ji1GIzYwRlhGZW5GWEZlbkZdb0ZlbkZYRmVuRlhGZW5GXW9GYG9GY29GOUY5RmVvRmhvRmVuLUZQNiYtRiM2MEZYRmVuRlhGZW5GXW9GZW5GWEZlbkZdb0ZlbkZYRmBvRmNvRjlGOUZlb0Zob0Zlbi1GUDYmLUYjNjBGWEZlbkZYRmVuRl1vRmVuRl1vRmVuRlhGZW5GWEZgb0Zjb0Y5RjlGZW9GaG9GZW4tRlA2Ji1GIzYwRlhGZW5GXW9GZW5GWEZlbkZYRmVuRlhGZW5GXW9GYG9GY29GOUY5RmVvRmhvRmVuLUZQNiYtRiM2MEZYRmVuRl1vRmVuRlhGZW5GWEZlbkZdb0ZlbkZYRmBvRmNvRjlGOUZlb0Zob0Zlbi1GUDYmLUYjNjBGWEZlbkZdb0ZlbkZYRmVuRl1vRmVuRlhGZW5GWEZgb0Zjb0Y5RjlGZW9GaG9GZW4tRlA2Ji1GIzYwRlhGZW5GXW9GZW5GXW9GZW5GWEZlbkZYRmVuRlhGYG9GY29GOUY5RmVvRmhvRmVuLUZQNiYtRiM2MEZdb0ZlbkZYRmVuRlhGZW5GWEZlbkZYRmVuRl1vRmBvRmNvRjlGOUZlb0Zob0Zlbi1GUDYmLUYjNjBGXW9GZW5GWEZlbkZYRmVuRlhGZW5GXW9GZW5GWEZgb0Zjb0Y5RjlGZW9GaG9GZW4tRlA2Ji1GIzYwRl1vRmVuRlhGZW5GWEZlbkZdb0ZlbkZYRmVuRlhGYG9GY29GOUY5RmVvRmhvRmVuLUZQNiYtRiM2MEZdb0ZlbkZYRmVuRl1vRmVuRlhGZW5GWEZlbkZYRmBvRmNvRjlGOUZlb0Zob0Zlbi1GUDYmLUYjNjBGXW9GZW5GXW9GZW5GWEZlbkZYRmVuRlhGZW5GWEZgb0Zjb0Y5RjlGZW9GaG9GYG9GY29GOUY5RmVvRmhvRmBvRmNvRjk=">NzE3KEkiYUc2IkYkRiRGJEkiYkdGJUYmNyhGJEYkRiRGJkYkRiY3KEYkRiRGJEYmRiZGJDcoRiRGJEYmRiRGJEYmNyhGJEYkRiZGJEYmRiQ3KEYkRiRGJkYmRiRGJDcoRiRGJkYkRiRGJEYmNyhGJEYmRiRGJEYmRiQ3KEYkRiZGJEYmRiRGJDcoRiRGJkYmRiRGJEYkNyhGJkYkRiRGJEYkRiY3KEYmRiRGJEYkRiZGJDcoRiZGJEYkRiZGJEYkNyhGJkYkRiZGJEYkRiQ3KEYmRiZGJEYkRiRGJA==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L69" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">depurar:=proc(L) local M,x;
+   M:=[]:
+   for x in L do
+      if x[nops(x)]= a then
+         M:=[op(M),x]
+      end if;
+   end do;
+end;</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEoZGVwdXJhckYnLyUnaXRhbGljR1EldHJ1ZUYnLyUsbWF0aHZhcmlhbnRHUSdpdGFsaWNGJy1JI21vR0YkNi1RIzo9RicvRjNRJ25vcm1hbEYnLyUmZmVuY2VHUSZmYWxzZUYnLyUqc2VwYXJhdG9yR0Y9LyUpc3RyZXRjaHlHRj0vJSpzeW1tZXRyaWNHRj0vJShsYXJnZW9wR0Y9LyUubW92YWJsZWxpbWl0c0dGPS8lJ2FjY2VudEdGPS8lJ2xzcGFjZUdRLDAuMjc3Nzc3OGVtRicvJSdyc3BhY2VHRkwtRiM2LC1GNjYvUSVwcm9jRicvJSVib2xkR0YxL0YzUSVib2xkRicvJStmb250d2VpZ2h0R0ZXRjtGPkZARkJGREZGRkgvRktRJjAuMGVtRicvRk5GZW4tSShtZmVuY2VkR0YkNiQtRiM2Ji1GLDYlUSJMRidGL0YyLyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0Y9RjlGOS1JJ21zcGFjZUdGJDYmLyUnaGVpZ2h0R1EmMC4wZXhGJy8lJndpZHRoR1EmMC41ZW1GJy8lJmRlcHRoR0Zpby8lKmxpbmVicmVha0dRMWZpcnN0cHJvY25ld2xpbmVGJy1GIzYqLUY2Ni9RJmxvY2FsRidGVEZWRlhGO0Y+RkBGQkZERkZGSEZaRmZuLUZlbzYmRmdvRmpvRl1wL0ZgcFElYXV0b0YnLUYjNigtRiw2JVEiTUYnRi9GMi1GNjYtUSIsRidGOUY7L0Y/RjFGQEZCRkRGRkZIRlovRk5RLDAuMzMzMzMzM2VtRictRiw2JVEieEYnRi9GMkZfb0Zib0Y5LUY2Ni1RIjtGJ0Y5RjtGY3FGQEZCRkRGRkZIRlpGTUZkb0Zfb0Zib0Y5LUYjNictRiM2KC1GIzYoRl1xRjUtRmhuNiYtRiM2Ji1GLDYlUSFGJ0YvRjJGX29GYm9GOUY5LyUlb3BlbkdRIltGJy8lJmNsb3NlR1EiXUYnRl9vRmJvRjlGaXFGZG9GX29GYm9GOS1GIzYqLUYjNi4tRjY2L1EkZm9yRidGVEZWRlhGO0Y+RkBGQkZERkZGSEZaRmZuRmdwRmZxRmdwLUY2Ni9RI2luRidGVEZWRlhGO0Y+RkBGQkZERkZGSEZaRmZuRmdwRlxvRmdwLUY2Ni9RI2RvRidGVEZWRlhGO0Y+RkBGQkZERkZGSEZaRmZuRl9vRmJvRjktRmVvNiZGZ29Gam9GXXAvRmBwUTZpbmNyZWFzZWluZGVudG5ld2xpbmVGJy1GIzYnLUYjNi0tRjY2L1EjaWZGJ0ZURlZGWEY7Rj5GQEZCRkRGRkZIRlpGZm5GZ3AtRiM2KC1GIzYpRmZxLUY2Ni1GW3NGOS9GPEYxRj4vRkFGMUZCRkRGRkZIL0ZLUSwwLjE2NjY2NjdlbUYnL0ZORmB1LUYjNiYtRiM2KC1GLDYlUSVub3BzRidGL0YyLUY2Ni1RMCZBcHBseUZ1bmN0aW9uO0YnRjlGO0Y+RkBGQkZERkZGSEZaRmZuLUZobjYkLUYjNiZGZnFGX29GYm9GOUY5Rl9vRmJvRjlGX29GYm9GOS1GNjYtRl5zRjlGXXVGPkZedUZCRkRGRkZIRl91L0ZOUSwwLjExMTExMTFlbUYnRl9vRmJvRjktRjY2LVEiPUYnRjlGO0Y+RkBGQkZERkZGSEZKRk0tRiw2JVEiYUYnRi9GMkZfb0Zib0Y5RmdwLUY2Ni9RJXRoZW5GJ0ZURlZGWEY7Rj5GQEZCRkRGRkZIRlpGZm5GXHQtRiM2KEZdcUY1LUZobjYmLUYjNigtRiM2KC1GLDYlUSNvcEYnRi9GMkZpdS1GaG42JC1GIzYmRl1xRl9vRmJvRjlGOUZfb0Zib0Y5RmBxRmZxRl9vRmJvRjlGOUZpckZcc0Zfb0Zib0Y5LUZlbzYmRmdvRmpvRl1wL0ZgcFE2ZGVjcmVhc2VpbmRlbnRuZXdsaW5lRidGX29GYm9GOS1GNjYvUSdlbmR+aWZGJ0ZURlZGWEY7Rj5GQEZCRkRGRkZIRlpGZm5GX29GYm9GOUZceC1GNjYvUSdlbmR+ZG9GJ0ZURlZGWEY7Rj5GQEZCRkRGRkZIRlpGZm5GX29GYm9GOUZfb0Zib0Y5Rlx4LUY2Ni9RKWVuZH5wcm9jRidGVEZWRlhGO0Y+RkBGQkZERkZGSEZaRmZuRl9vRmJvRjlGX29GYm9GOQ==">Zio2I0kiTEc2IjYkSSJNR0YlSSJ4R0YlRiVGJUMkPkYnNyI/JkYoRiRJJXRydWVHJSpwcm90ZWN0ZWRHQCQvJkYoNiMtSSVub3BzR0YuNiNGKEkiYUdGJT5GJzckLUkjb3BHRi42I0YnRihGJUYlRiU=</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L71" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">depurar(L);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">Nyw3KEkiYUc2IkYkRiRJImJHRiVGJkYkNyhGJEYkRiZGJEYmRiQ3KEYkRiRGJkYmRiRGJDcoRiRGJkYkRiRGJkYkNyhGJEYmRiRGJkYkRiQ3KEYkRiZGJkYkRiRGJDcoRiZGJEYkRiRGJkYkNyhGJkYkRiRGJkYkRiQ3KEYmRiRGJkYkRiRGJDcoRiZGJkYkRiRGJEYk</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L64" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">LL:=permute([a,a,a,b,b]);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEjTExGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSSNtb0dGJDYtUSM6PUYnL0YzUSdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPS8lKXN0cmV0Y2h5R0Y9LyUqc3ltbWV0cmljR0Y9LyUobGFyZ2VvcEdGPS8lLm1vdmFibGVsaW1pdHNHRj0vJSdhY2NlbnRHRj0vJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0ZMLUkobWZlbmNlZEdGJDYmLUYjNjgtRlA2Ji1GIzYuLUYsNiVRImFGJ0YvRjItRjY2LVEiLEYnRjlGOy9GP0YxRkBGQkZERkZGSC9GS1EmMC4wZW1GJy9GTlEsMC4zMzMzMzMzZW1GJ0ZYRmVuRlhGZW4tRiw2JVEiYkYnRi9GMkZlbkZdby8lK2ZvcmVncm91bmRHUShbMCwwLDBdRicvJSlyZWFkb25seUdGPUY5RjkvJSVvcGVuR1EiW0YnLyUmY2xvc2VHUSJdRidGZW4tRlA2Ji1GIzYuRlhGZW5GWEZlbkZdb0ZlbkZYRmVuRl1vRmBvRmNvRjlGOUZlb0Zob0Zlbi1GUDYmLUYjNi5GWEZlbkZYRmVuRl1vRmVuRl1vRmVuRlhGYG9GY29GOUY5RmVvRmhvRmVuLUZQNiYtRiM2LkZYRmVuRl1vRmVuRlhGZW5GWEZlbkZdb0Zgb0Zjb0Y5RjlGZW9GaG9GZW4tRlA2Ji1GIzYuRlhGZW5GXW9GZW5GWEZlbkZdb0ZlbkZYRmBvRmNvRjlGOUZlb0Zob0Zlbi1GUDYmLUYjNi5GWEZlbkZdb0ZlbkZdb0ZlbkZYRmVuRlhGYG9GY29GOUY5RmVvRmhvRmVuLUZQNiYtRiM2LkZdb0ZlbkZYRmVuRlhGZW5GWEZlbkZdb0Zgb0Zjb0Y5RjlGZW9GaG9GZW4tRlA2Ji1GIzYuRl1vRmVuRlhGZW5GWEZlbkZdb0ZlbkZYRmBvRmNvRjlGOUZlb0Zob0Zlbi1GUDYmLUYjNi5GXW9GZW5GWEZlbkZdb0ZlbkZYRmVuRlhGYG9GY29GOUY5RmVvRmhvRmVuLUZQNiYtRiM2LkZdb0ZlbkZdb0ZlbkZYRmVuRlhGZW5GWEZgb0Zjb0Y5RjlGZW9GaG9GYG9GY29GOUY5RmVvRmhvRmBvRmNvRjk=">Nyw3J0kiYUc2IkYkRiRJImJHRiVGJjcnRiRGJEYmRiRGJjcnRiRGJEYmRiZGJDcnRiRGJkYkRiRGJjcnRiRGJkYkRiZGJDcnRiRGJkYmRiRGJDcnRiZGJEYkRiRGJjcnRiZGJEYkRiZGJDcnRiZGJEYmRiRGJDcnRiZGJkYkRiRGJA==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L66" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">[seq([op(LL[i]),a],i=1..nops(LL))];</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">Nyw3KEkiYUc2IkYkRiRJImJHRiVGJkYkNyhGJEYkRiZGJEYmRiQ3KEYkRiRGJkYmRiRGJDcoRiRGJkYkRiRGJkYkNyhGJEYmRiRGJkYkRiQ3KEYkRiZGJkYkRiRGJDcoRiZGJEYkRiRGJkYkNyhGJkYkRiRGJkYkRiQ3KEYmRiRGJkYkRiRGJDcoRiZGJkYkRiRGJEYk</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L67" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">engade_a:=L-&gt;[op(L),a];</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEpZW5nYWRlX2FGJy8lJ2l0YWxpY0dRJXRydWVGJy8lLG1hdGh2YXJpYW50R1EnaXRhbGljRictSSNtb0dGJDYtUSM6PUYnL0YzUSdub3JtYWxGJy8lJmZlbmNlR1EmZmFsc2VGJy8lKnNlcGFyYXRvckdGPS8lKXN0cmV0Y2h5R0Y9LyUqc3ltbWV0cmljR0Y9LyUobGFyZ2VvcEdGPS8lLm1vdmFibGVsaW1pdHNHRj0vJSdhY2NlbnRHRj0vJSdsc3BhY2VHUSwwLjI3Nzc3NzhlbUYnLyUncnNwYWNlR0ZMLUYjNigtRiw2JVEiTEYnRi9GMi1GNjYtUSgmIzg1OTQ7RidGOUY7Rj5GQEZCRkRGRkZIL0ZLUSYwLjBlbUYnL0ZORlgtSShtZmVuY2VkR0YkNiYtRiM2KC1GIzYoLUYsNiVRI29wRidGL0YyLUY2Ni1RMCZBcHBseUZ1bmN0aW9uO0YnRjlGO0Y+RkBGQkZERkZGSEZXRlktRmVuNiQtRiM2JkZRLyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0Y9RjlGOUZlb0Zob0Y5LUY2Ni1RIixGJ0Y5RjsvRj9GMUZARkJGREZGRkhGVy9GTlEsMC4zMzMzMzMzZW1GJy1GLDYlUSJhRidGL0YyRmVvRmhvRjlGOS8lJW9wZW5HUSJbRicvJSZjbG9zZUdRIl1GJ0Zlb0Zob0Y5RmVvRmhvRjk=">Zio2I0kiTEc2IkYlNiRJKW9wZXJhdG9yR0YlSSZhcnJvd0dGJUYlNyQtSSNvcEclKnByb3RlY3RlZEdGI0kiYUdGJUYlRiVGJQ==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L68" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">map(engade_a,LL);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">Nyw3KEkiYUc2IkYkRiRJImJHRiVGJkYkNyhGJEYkRiZGJEYmRiQ3KEYkRiRGJkYmRiRGJDcoRiRGJkYkRiRGJkYkNyhGJEYmRiRGJkYkRiQ3KEYkRiZGJkYkRiRGJDcoRiZGJEYkRiRGJkYkNyhGJkYkRiRGJkYkRiQ3KEYmRiRGJkYkRiRGJDcoRiZGJkYkRiRGJEYk</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L72" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block><Presentation-Block>
+<Group view="presentation" hide-input="false" hide-output="true" inline-output="false" labelreference="L63" drawlabel="true">
+<Input>
+<Text-field style="Text" layout="Normal"></Text-field>
+</Input>
+</Group></Presentation-Block>
+<Group labelreference="L51" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">#APARTADO 2:</Text-field>
+</Input>
+</Group>
+<Group labelreference="L53" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2JVEhRicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvRjNRJ25vcm1hbEYn">JSFH</Equation></Text-field>
+</Input>
+</Group><Presentation-Block>
+<Group labelreference="L57" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">resultado:=proc(A,B,n,k) local L,engadir;
+   L:=permute([$(A,n-1),$(B,k)]):
+   engadir:=x-&gt;[op(x),A];
+   map(engadir,L);
+end proc;</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEqcmVzdWx0YWRvRicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LVEjOj1GJy9GM1Enbm9ybWFsRicvJSZmZW5jZUdRJmZhbHNlRicvJSpzZXBhcmF0b3JHRj0vJSlzdHJldGNoeUdGPS8lKnN5bW1ldHJpY0dGPS8lKGxhcmdlb3BHRj0vJS5tb3ZhYmxlbGltaXRzR0Y9LyUnYWNjZW50R0Y9LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTC1GIzYsLUY2Ni9RJXByb2NGJy8lJWJvbGRHRjEvRjNRJWJvbGRGJy8lK2ZvbnR3ZWlnaHRHRldGO0Y+RkBGQkZERkZGSC9GS1EmMC4wZW1GJy9GTkZlbi1JKG1mZW5jZWRHRiQ2JC1GIzYsLUYsNiVRIkFGJ0YvRjItRjY2LVEiLEYnRjlGOy9GP0YxRkBGQkZERkZGSEZaL0ZOUSwwLjMzMzMzMzNlbUYnLUYsNiVRIkJGJ0YvRjJGX28tRiw2JVEibkYnRi9GMkZfby1GLDYlUSJrRidGL0YyLyUrZm9yZWdyb3VuZEdRKFswLDAsMF1GJy8lKXJlYWRvbmx5R0Y9RjlGOS1JJ21zcGFjZUdGJDYmLyUnaGVpZ2h0R1EmMC4wZXhGJy8lJndpZHRoR1EmMC41ZW1GJy8lJmRlcHRoR0ZocC8lKmxpbmVicmVha0dRMWZpcnN0cHJvY25ld2xpbmVGJy1GIzYqLUY2Ni9RJmxvY2FsRidGVEZWRlhGO0Y+RkBGQkZERkZGSEZaRmZuLUZkcDYmRmZwRmlwRlxxL0ZfcVElYXV0b0YnLUYjNigtRiw2JVEiTEYnRi9GMkZfby1GLDYlUShlbmdhZGlyRidGL0YyRl5wRmFwRjktRjY2LVEiO0YnRjlGO0Zib0ZARkJGREZGRkhGWkZNRmNwRl5wRmFwRjktRiM2KC1GIzYoLUYjNihGXHJGNS1GIzYoLUYjNigtRiw2JVEpY29tYmluYXRGJ0YvRjItRjY2LVEjOi1GJ0Y5RjtGPkZARkJGREZGRkhGWkZmbi1GLDYlUShwZXJtdXRlRidGL0YyRl5wRmFwRjktRjY2LVEwJkFwcGx5RnVuY3Rpb247RidGOUY7Rj5GQEZCRkRGRkZIRlpGZm4tRmhuNiQtRiM2Ji1GaG42Ji1GIzYoLUYjNigtRiw2JVEkYCRgRidGL0YyRmhzLUZobjYkLUYjNihGXG9GX28tRiM2JkZoby1GNjYtUSp+JiM4NzIyO35GJ0Y5RjtGPkZARkJGREZGRkhGWkZmbi1JI21uR0YkNiRRIjFGJ0Y5RjlGXnBGYXBGOUY5Rl5wRmFwRjlGX28tRiM2KEZldEZocy1GaG42JC1GIzYoRmVvRl9vRltwRl5wRmFwRjlGOUZecEZhcEY5Rl5wRmFwRjlGOS8lJW9wZW5HUSJbRicvJSZjbG9zZUdRIl1GJ0ZecEZhcEY5RjlGXnBGYXBGOUZecEZhcEY5RmJyRmNwRl5wRmFwRjktRiM2KC1GIzYoRl9yRjUtRiM2KC1GLDYlUSJ4RidGL0YyLUY2Ni1RKCYjODU5NDtGJ0Y5RjtGPkZARkJGREZGRkhGWkZmbi1GaG42Ji1GIzYoLUYjNigtRiw2JVEjb3BGJ0YvRjJGaHMtRmhuNiQtRiM2JkZndkZecEZhcEY5RjlGXnBGYXBGOUZfb0Zcb0ZecEZhcEY5RjlGW3ZGXnZGXnBGYXBGOUZecEZhcEY5RmJyRmNwRl5wRmFwRjktRiM2KC1GLDYlUSRtYXBGJ0YvRjJGaHMtRmhuNiQtRiM2KEZfckZfb0ZcckZecEZhcEY5RjlGXnBGYXBGOUZecEZhcEY5LUZkcDYmRmZwRmlwRlxxL0ZfcVE2ZGVjcmVhc2VpbmRlbnRuZXdsaW5lRictRjY2L1EpZW5kfnByb2NGJ0ZURlZGWEY7Rj5GQEZCRkRGRkZIRlpGZm5GXnBGYXBGOUZecEZhcEY5">Zio2JkkiQUc2IkkiQkdGJUkibkdGJUkia0dGJTYkSSJMR0YlSShlbmdhZGlyR0YlRiVGJUMlPkYqLV9JKWNvbWJpbmF0RzYkJSpwcm90ZWN0ZWRHSShfc3lzbGliR0YlSShwZXJtdXRlR0YlNiM3JC1JIiRHRjI2JEYkLCZGJyIiIkY7ISIiLUY4NiRGJkYoPkYrZio2I0kieEdGJUYlNiRJKW9wZXJhdG9yR0YlSSZhcnJvd0dGJUYlNyQtSSNvcEdGMkZBRiRGJUYlNiRGJDkkLUkkbWFwR0YyNiRGK0YqRiVGJUYl</Equation></Text-field>
+</Output>
+</Group>
+<Group view="code" labelreference="L56" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">torneo:=proc(A,B,n)
+   [seq(op(resultado(A,B,n,k)),k=0..n-1)]
+end;</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYoLUkjbWlHRiQ2JVEndG9ybmVvRicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLUkjbW9HRiQ2LVEjOj1GJy9GM1Enbm9ybWFsRicvJSZmZW5jZUdRJmZhbHNlRicvJSpzZXBhcmF0b3JHRj0vJSlzdHJldGNoeUdGPS8lKnN5bW1ldHJpY0dGPS8lKGxhcmdlb3BHRj0vJS5tb3ZhYmxlbGltaXRzR0Y9LyUnYWNjZW50R0Y9LyUnbHNwYWNlR1EsMC4yNzc3Nzc4ZW1GJy8lJ3JzcGFjZUdGTC1GIzYrLUY2Ni9RJXByb2NGJy8lJWJvbGRHRjEvRjNRJWJvbGRGJy8lK2ZvbnR3ZWlnaHRHRldGO0Y+RkBGQkZERkZGSC9GS1EmMC4wZW1GJy9GTkZlbi1JKG1mZW5jZWRHRiQ2JC1GIzYqLUYsNiVRIkFGJ0YvRjItRjY2LVEiLEYnRjlGOy9GP0YxRkBGQkZERkZGSEZaL0ZOUSwwLjMzMzMzMzNlbUYnLUYsNiVRIkJGJ0YvRjJGX28tRiw2JVEibkYnRi9GMi8lK2ZvcmVncm91bmRHUShbMCwwLDBdRicvJSlyZWFkb25seUdGPUY5RjktSSdtc3BhY2VHRiQ2Ji8lJ2hlaWdodEdRJjAuMGV4RicvJSZ3aWR0aEdRJjAuNWVtRicvJSZkZXB0aEdGZXAvJSpsaW5lYnJlYWtHUTFmaXJzdHByb2NuZXdsaW5lRictRmhuNiYtRiM2Ji1GIzYoLUYsNiVRJHNlcUYnRi9GMi1GNjYtUTAmQXBwbHlGdW5jdGlvbjtGJ0Y5RjtGPkZARkJGREZGRkhGWkZmbi1GaG42JC1GIzYoLUYjNigtRiw2JVEjb3BGJ0YvRjJGZ3EtRmhuNiQtRiM2Ji1GIzYoLUYsNiVRKnJlc3VsdGFkb0YnRi9GMkZncS1GaG42JC1GIzYsRlxvRl9vRmVvRl9vRmhvRl9vLUYsNiVRImtGJ0YvRjJGW3BGXnBGOUY5RltwRl5wRjlGW3BGXnBGOUY5RltwRl5wRjlGX28tRiM2KEZgcy1GNjYtUSI9RidGOUY7Rj5GQEZCRkRGRkZIRkpGTS1GIzYoLUkjbW5HRiQ2JFEiMEYnRjktRjY2LVEjLi5GJ0Y5RjtGPkZARkJGREZGRkgvRktRLDAuMjIyMjIyMmVtRidGZm4tRiM2JkZoby1GNjYtUSp+JiM4NzIyO35GJ0Y5RjtGPkZARkJGREZGRkhGWkZmbi1GW3Q2JFEiMUYnRjlGOUZbcEZecEY5RltwRl5wRjlGW3BGXnBGOUY5RltwRl5wRjlGW3BGXnBGOUY5LyUlb3BlbkdRIltGJy8lJmNsb3NlR1EiXUYnLUZhcDYmRmNwRmZwRmlwL0ZccVE2ZGVjcmVhc2VpbmRlbnRuZXdsaW5lRictRjY2L1EpZW5kfnByb2NGJ0ZURlZGWEY7Rj5GQEZCRkRGRkZIRlpGZm5GW3BGXnBGOUZbcEZecEY5">Zio2JUkiQUc2IkkiQkdGJUkibkdGJUYlRiVGJTcjLUkkc2VxRyUqcHJvdGVjdGVkRzYkLUkjb3BHRis2Iy1JKnJlc3VsdGFkb0dGJTYmRiRGJkYnSSJrR0YlL0YzOyIiISwmRiciIiJGOCEiIkYlRiVGJQ==</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L55" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">resultado(a,b,4,2);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">Nyw3KEkiYUc2IkYkRiRJImJHRiVGJkYkNyhGJEYkRiZGJEYmRiQ3KEYkRiRGJkYmRiRGJDcoRiRGJkYkRiRGJkYkNyhGJEYmRiRGJkYkRiQ3KEYkRiZGJkYkRiRGJDcoRiZGJEYkRiRGJkYkNyhGJkYkRiRGJkYkRiQ3KEYmRiRGJkYkRiRGJDcoRiZGJkYkRiRGJEYk</Equation></Text-field>
+</Output>
+</Group></Presentation-Block>
+<Group labelreference="L54" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2JVEhRicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvRjNRJ25vcm1hbEYn">JSFH</Equation></Text-field>
+</Input>
+</Group>
+<Group labelreference="L58" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">#Apartado 3:</Text-field>
+</Input>
+</Group>
+<Group labelreference="L62" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal">torneo(&quot;Nadal&quot;,&quot;Fedderer&quot;,3);</Text-field>
+</Input>
+<Output>
+<Text-field style="2D Output" layout="Maple Output"><Equation executable="false" style="2D Output">Nyw3JVEmTmFkYWw2IkYkRiQ3JkYkRiRRKUZlZGRlcmVyRiVGJDcmRiRGJ0YkRiQ3JkYnRiRGJEYkNydGJEYkRidGJ0YkNydGJEYnRiRGJ0YkNydGJEYnRidGJEYkNydGJ0YkRiRGJ0YkNydGJ0YkRidGJEYkNydGJ0YnRiRGJEYk</Equation></Text-field>
+</Output>
+</Group>
+<Group labelreference="L61" drawlabel="true">
+<Input>
+<Text-field prompt="&gt; " style="Maple Input" layout="Normal"><Equation executable="true" style="2D Input" input-equation="" display="LUklbXJvd0c2Iy9JK21vZHVsZW5hbWVHNiJJLFR5cGVzZXR0aW5nR0koX3N5c2xpYkdGJzYlLUkjbWlHRiQ2JVEhRicvJSdpdGFsaWNHUSV0cnVlRicvJSxtYXRodmFyaWFudEdRJ2l0YWxpY0YnLyUrZXhlY3V0YWJsZUdRJmZhbHNlRicvRjNRJ25vcm1hbEYn">JSFH</Equation></Text-field>
+</Input>
+</Group>
+</Section>
+</Worksheet><!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta name="theme-color" content="#C62828">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+    <title>gradox</title>
+
+    <link rel="icon" href="img/favicon.png">
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/agency.css.php" rel="stylesheet">
+    
+    <!-- Custom Fonts -->
+    <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="httpss://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="httpss://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+
+<body id="page-top" class="index">
+    <!-- Navigation -->
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="page-scroll" href="#page-top">
+                    <!--<img height=50 src="img/logoCabecera.svg" alt="logo"/>-->
+                    <img height=50 src="img/logoCabecera.svg" alt="logo"/>
+		</a>
+<!--<a href="info/index.html"><button type="button" class="btn btn-default" aria-label="Left Align">
+<span class="glyphicon glyphicon-bullhorn" aria-hidden="true"></span>
+</button></a>-->
+
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+  
+<ul class="nav navbar-nav navbar-right">
+	    <li class="hidden">
+		<a href="#page-top"></a>
+	    </li>
+	    <li>
+		<a class="page-scroll" href="#ultimos_arquivos">Últimos arquivos</a>
+	    </li>
+	    <li>
+		<a class="page-scroll" href="#cursos">Cursos</a>
+	    </li>
+	    <!--<li>
+		<a target="_blank" href="libros.php">Libros</a>
+	    </li>-->             
+	    <!--<li>
+		<a class="page-scroll" href="#contact">Contacto</a>
+	    </li>-->
+			<li>
+		<a target="_blank" class="page-scroll" href="subir.php">Subir arquivo</a>
+	    </li>    
+	    <li>
+		<a class="page-scroll" href="?accion=sair">Pechar sesión</a>
+	    </li>
+	</ul>
+    </div>
+    <!-- /.navbar-collapse -->
+</div>
+<!-- /.container-fluid -->
+</nav>
+
+
+<!-- Header -->
+<header>
+<div id="cvh">
+    <form id="bsqd" action="?" method="get" accept-charset="UTF-8">
+	<div class="inner-addon left-addon">
+	    <input autocomplete="off" placeholder="buscar..." autofocus type="text" class="form-control center" id="query" name="q" onkeypress="if (event.keyCode == 13) document.getElementById('bsqd').submit()" />
+    	</div>
+    </form>
+
+</div>
+</header>
+
+<!-- Sección de últimos arquivos -->
+<section id="ultimos_arquivos">
+<div class="container">
+    <div class="row">
+	<div class="col-lg-12 text-center">
+
+
+	    <h2 class="section-heading">
+
+Últimos arquivos</h2><br><br>		
+	</div>
+    </div>
+    <div class="col-lg-12 text-center">
+
+<ul style='list-style-type: none;'><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=Calc>exames>exame-can-1920-1op_06_240525090521.pdf'><li>Arquivo #723<br>exame-can-1920-1op_06_240525090521.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>Calc</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>24/05/2025</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=Estat>exames>Exames_R_2025_180525190634.zip'><li>Arquivo #722<br>Exames_R_2025_180525190634.zip</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>Estat</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>18/05/2025</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=FutFi>exames>ExamenFutfiMayo2024_030525183549.pdf'><li>Arquivo #721<br>ExamenFutfiMayo2024_030525183549.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>FutFi</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>03/05/2025</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=MatDis>exames>2025_Sage_Resuelto_170125181024.zip'><li>Arquivo #720<br>2025_Sage_Resuelto_170125181024.zip</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>MatDis</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>17/01/2025</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=MatDis>exames>sol 2024 ex_150125042719.pdf'><li>Arquivo #719<br>sol 2024 ex_150125042719.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>MatDis</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>15/01/2025</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=MatDis>apuntes>ResumenDiscreta-24-25_090125185629.pdf'><li>Arquivo #718<br>ResumenDiscreta-24-25_090125185629.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>MatDis</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>09/01/2025</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=MatDis>exames>soluciones ex2024_discreta_050125101313.pdf'><li>Arquivo #717<br>soluciones ex2024_discreta_050125101313.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>MatDis</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>05/01/2025</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=MatDis>exames>soluciones ex2024_discreta_050125092703.pdf'><li>Arquivo #716<br>soluciones ex2024_discreta_050125092703.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>MatDis</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>05/01/2025</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=MatDis>exames>soluciones ex2024_discreta_050125092658.pdf'><li>Arquivo #715<br>soluciones ex2024_discreta_050125092658.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>MatDis</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>05/01/2025</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=BasesDat1>traballos>Preguntas e solucións edpuzzle 2024-25_301224120843.pdf'><li>Arquivo #714<br>Preguntas e solucións edpuzzle 2024-25_301224120843.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>traballos</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>BasesDat1</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>30/12/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=MatDis>exames>ExamesSagemath_24-25_MatDis_051224195150.zip'><li>Arquivo #713<br>ExamesSagemath_24-25_MatDis_051224195150.zip</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>MatDis</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>05/12/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=FundMat>exames>1oParcialCalculo_24-25_FunMat_051224194940.zip'><li>Arquivo #712<br>1oParcialCalculo_24-25_FunMat_051224194940.zip</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>FundMat</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>05/12/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=FundMat>exames>TestLogicaAvaliacionContinua_24-25_FunMat_051224194628.zip'><li>Arquivo #711<br>TestLogicaAvaliacionContinua_24-25_FunMat_051224194628.zip</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>FundMat</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>05/12/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=IntPerOrd>apuntes>IPO_apuntesCompletos_251124172712.pdf'><li>Arquivo #710<br>IPO_apuntesCompletos_251124172712.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>IntPerOrd</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>25/11/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=FutFi>apuntes>ApuntesT4-T10FuTFI_111124122818.pdf'><li>Arquivo #709<br>ApuntesT4-T10FuTFI_111124122818.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>FutFi</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>11/11/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=MatDis>practicas>PRUEBA PRÁCTICA OCT-2024. CLIL_02_051124172631.pdf'><li>Arquivo #708<br>PRUEBA PRÁCTICA OCT-2024. CLIL_02_051124172631.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>practicas</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>MatDis</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>05/11/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=FundMat>apuntes>Repositorio_de_bitacoras_140924212806.pdf'><li>Arquivo #707<br>Repositorio_de_bitacoras_140924212806.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>FundMat</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>14/09/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=Alxeb>exames>Examen álgebra 1ª conv 23-24v1.1_270624121158.pdf'><li>Arquivo #706<br>Examen álgebra 1ª conv 23-24v1.1_270624121158.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>Alxeb</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>27/06/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=ArqComp>exames>2024 Mayo_140624101128.pdf'><li>Arquivo #705<br>2024 Mayo_140624101128.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>ArqComp</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>14/06/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=Estat>exames>ExamenEstat2024_040624145452.pdf'><li>Arquivo #704<br>ExamenEstat2024_040624145452.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>Estat</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>04/06/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=DesSoft>apuntes>DISO_FlashcardsAnki_270524092642.zip'><li>Arquivo #703<br>DISO_FlashcardsAnki_270524092642.zip</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>DesSoft</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>27/05/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=Prog2>exames>ExamenMayo2022_210524155931.pdf'><li>Arquivo #702<br>ExamenMayo2022_210524155931.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>Prog2</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>21/05/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=CompInt>apuntes>Compiladores_ApuntesCompletos_080524204820.pdf'><li>Arquivo #701<br>Compiladores_ApuntesCompletos_080524204820.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>CompInt</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>08/05/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=Prog2>exames>cuestionario_evaluable_abril_2024_100424134343.pdf'><li>Arquivo #700<br>cuestionario_evaluable_abril_2024_100424134343.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>Prog2</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>10/04/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=Prog2>apuntes>TADs (Pilas, colas, listas) - Apuntes y ejemplos-1_050324114053.pdf'><li>Arquivo #699<br>TADs (Pilas, colas, listas) - Apuntes y ejemplos-1_050324114053.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>Prog2</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>05/03/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=SisOp1>exames>enero2024_270224103406.pdf'><li>Arquivo #698<br>enero2024_270224103406.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>SisOp1</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>27/02/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=Alxeb>apuntes>Barja_Frases_Célebres_200224105351.pdf'><li>Arquivo #697<br>Barja_Frases_Célebres_200224105351.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>Alxeb</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>20/02/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=MatDis>exames>Discreta 2023-24_220124193348.pdf'><li>Arquivo #696<br>Discreta 2023-24_220124193348.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>MatDis</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>22/01/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=ProgOb>apuntes>POO Esenciales_150124232905.pdf'><li>Arquivo #695<br>POO Esenciales_150124232905.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>ProgOb</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>15/01/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=TeoAutLinForm>apuntes>TALF_USC_2023_2024_v2.4_100124165655.pdf'><li>Arquivo #694<br>TALF_USC_2023_2024_v2.4_100124165655.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>TeoAutLinForm</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>10/01/2024</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=Alxeb>apuntes>4 - Aplicaciones lineales_231223081528.pdf'><li>Arquivo #693<br>4 - Aplicaciones lineales_231223081528.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>Alxeb</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>23/12/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=MatDis>apuntes>1 - Algoritmos, aritmética entera, aritmética modular, criptografía_201223183741.pdf'><li>Arquivo #692<br>1 - Algoritmos, aritmética entera, aritmética modular, criptografía_201223183741.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>MatDis</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>20/12/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=MatDis>apuntes>4 - Grafos_201223183517.pdf'><li>Arquivo #691<br>4 - Grafos_201223183517.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>MatDis</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>20/12/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=TeoAutLinForm>apuntes>TALF_ApuntesCompletos_241123132350.pdf'><li>Arquivo #690<br>TALF_ApuntesCompletos_241123132350.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>TeoAutLinForm</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>24/11/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=Alxeb>exames>primer_parcial_algebra_191023193947.png'><li>Arquivo #689<br>primer_parcial_algebra_191023193947.png</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>Alxeb</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>19/10/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=SisOp1>apuntes>Apuntes SOI 22-23_270923124452.pdf'><li>Arquivo #688<br>Apuntes SOI 22-23_270923124452.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>SisOp1</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>27/09/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=BasesDat2>apuntes>Apuntes BDII-1_030723103045.pdf'><li>Arquivo #687<br>Apuntes BDII-1_030723103045.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>BasesDat2</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>03/07/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=DesSoft>exames>ExamenDS_2023_260523170141.zip'><li>Arquivo #686<br>ExamenDS_2023_260523170141.zip</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>DesSoft</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>26/05/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=SisOp2>apuntes>ApuntesSOII_220523165435.pdf'><li>Arquivo #685<br>ApuntesSOII_220523165435.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>SisOp2</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>22/05/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=CompGraf>apuntes>apuntesCoGa_resumo_040523095056.pdf'><li>Arquivo #684<br>apuntesCoGa_resumo_040523095056.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>CompGraf</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>04/05/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=Alxeb>exames>examenalgebraenero2023_210323205816.pdf'><li>Arquivo #683<br>examenalgebraenero2023_210323205816.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>Alxeb</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>21/03/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=FundMat>practicas>LaboratoriosFuMat2022_190123172958.pdf'><li>Arquivo #682<br>LaboratoriosFuMat2022_190123172958.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>practicas</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>FundMat</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>19/01/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=ProgOb>apuntes>ResumenPOO_BUENO_140123094549.pdf'><li>Arquivo #681<br>ResumenPOO_BUENO_140123094549.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>ProgOb</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>14/01/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=TeoAutLinForm>apuntes>bitacoras_TALF_040123151655.pdf'><li>Arquivo #680<br>bitacoras_TALF_040123151655.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>TeoAutLinForm</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>04/01/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=CompDist>apuntes>bitacoras_CODI_040123151611.pdf'><li>Arquivo #679<br>bitacoras_CODI_040123151611.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>CompDist</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>04/01/2023</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=CalSoft>apuntes>Resumen CSI_191222171541.pdf'><li>Arquivo #678<br>Resumen CSI_191222171541.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>apuntes</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>CalSoft</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>19/12/2022</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=Redes>practicas>Redes_031022114211.rar'><li>Arquivo #677<br>Redes_031022114211.rar</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>practicas</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>Redes</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>03/10/2022</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=SisDix>exames>sistemas_21_22_xaneiro_300722152707.pdf'><li>Arquivo #676<br>sistemas_21_22_xaneiro_300722152707.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>SisDix</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>30/07/2022</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=FundMat>exames>FuMat Enero 2022_300722152649.pdf'><li>Arquivo #675<br>FuMat Enero 2022_300722152649.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>FundMat</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>30/07/2022</div></div><br><div class='row'><div style='text-align: left;' class='col-md-3'><a href='?a=Prog2>exames>Ex_final_Mayo-2022_Programación II_300722152626.pdf'><li>Arquivo #674<br>Ex_final_Mayo-2022_Programación II_300722152626.pdf</a></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>exames</li></div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>Prog2</div><div style='text-align: right;' class='col-md-3 hidden-sm hidden-xs'>30/07/2022</div></div><br></ul>               
+            </div>
+        </div>
+    </section>
+	
+    <!-- Sección de cursos -->
+    <section id="cursos" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">cursos</h2><br><br>
+                </div>
+            </div>
+            <a class="page-scroll" href="#primeiro"><div class="row text-center">
+                <div class="col-md-3 col-sm-6">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Primeiro</h4><br><br>
+            </div></a>
+			<a class="page-scroll" href="#segundo">
+                <div class="col-md-3 col-sm-6">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                    </span>
+					<h4 class="service-heading">Segundo</h4><br><br>
+            </div></a>
+			<a class="page-scroll" href="#terceiro">
+                <div class="col-md-3 col-sm-6">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Terceiro</h4><br><br>
+            </div></a>
+			<a class="page-scroll" href="#cuarto">
+                <div class="col-md-3 col-sm-6">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Cuarto</h4><br><br>
+            </div></a>
+        </div>
+    </section>
+        
+    <!-- Sección de primeiro -->
+    <section id="primeiro">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">primeiro</h2><br><br>
+                </div>
+            </div>
+            <div class="row">
+            </div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                    <div class="portfolio-caption">
+                                        <a href="?q=Álxebra&c=1" class="portfolio-link" data-toggle="modal">
+                                            <br><h4>Álxebra</h4>
+                                        </a><p class="text-muted">Matemáticas</p>
+                                    </div>
+                                </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                    <div class="portfolio-caption">
+                                        <a href="?q=Cálculo+e+Análise+Numérico&c=1" class="portfolio-link" data-toggle="modal">
+                                            <br><h4>Cálculo e Análise Numérico</h4>
+                                        </a><p class="text-muted">Matemáticas</p>
+                                    </div>
+                                </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                    <div class="portfolio-caption">
+                                        <a href="?q=Estatística&c=1" class="portfolio-link" data-toggle="modal">
+                                            <br><h4>Estatística</h4>
+                                        </a><p class="text-muted">Matemáticas</p>
+                                    </div>
+                                </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                    <div class="portfolio-caption">
+                                        <a href="?q=Fundamentos+de+Computadores&c=1" class="portfolio-link" data-toggle="modal">
+                                            <br><h4>Fundamentos de Computadores</h4>
+                                        </a><p class="text-muted">Enxeñaría de Computadores</p>
+                                    </div>
+                                </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                    <div class="portfolio-caption">
+                                        <a href="?q=Fundamentos+de+Matemáticas&c=1" class="portfolio-link" data-toggle="modal">
+                                            <br><h4>Fundamentos de Matemáticas</h4>
+                                        </a><p class="text-muted">Matemáticas</p>
+                                    </div>
+                                </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                    <div class="portfolio-caption">
+                                        <a href="?q=Fundamentos+Físicos+e+Tecnolóxicos+da+Informática&c=1" class="portfolio-link" data-toggle="modal">
+                                            <br><h4>Fundamentos Físicos e Tecnolóxicos da Informática</h4>
+                                        </a><p class="text-muted">Materias Transversais</p>
+                                    </div>
+                                </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                    <div class="portfolio-caption">
+                                        <a href="?q=Matemáticas+Discretas&c=1" class="portfolio-link" data-toggle="modal">
+                                            <br><h4>Matemáticas Discretas</h4>
+                                        </a><p class="text-muted">Matemáticas</p>
+                                    </div>
+                                </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                    <div class="portfolio-caption">
+                                        <a href="?q=Programación+I&c=1" class="portfolio-link" data-toggle="modal">
+                                            <br><h4>Programación I</h4>
+                                        </a><p class="text-muted">Programación</p>
+                                    </div>
+                                </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                    <div class="portfolio-caption">
+                                        <a href="?q=Programación+II&c=1" class="portfolio-link" data-toggle="modal">
+                                            <br><h4>Programación II</h4>
+                                        </a><p class="text-muted">Programación</p>
+                                    </div>
+                                </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                    <div class="portfolio-caption">
+                                        <a href="?q=Sistemas+Dixitáis&c=1" class="portfolio-link" data-toggle="modal">
+                                            <br><h4>Sistemas Dixitáis</h4>
+                                        </a><p class="text-muted">Enxeñaría de Computadores</p>
+                                    </div>
+                                </div>            </div>
+        </div>
+    </section>
+	
+	<!-- Sección de segundo -->
+    <section id="segundo" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">segundo</h2><br><br>
+                </div>
+            </div>
+            <div class="row">
+            </div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Algoritmos+e+Estructuras+de+Datos&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Algoritmos e Estructuras de Datos</h4>
+                                    </a><p class="text-muted">Programación</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Arquitectura+de+Computadores&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Arquitectura de Computadores</h4>
+                                    </a><p class="text-muted">Enxeñaría de Computadores</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Bases+de+Datos+I&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Bases de Datos I</h4>
+                                    </a><p class="text-muted">Sistemas de Información</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Bases+de+Datos+II&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Bases de Datos II</h4>
+                                    </a><p class="text-muted">Sistemas de Información</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Computación+Gráfica&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Computación Gráfica</h4>
+                                    </a><p class="text-muted">Materias Transversais</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Deseño+de+Software&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Deseño de Software</h4>
+                                    </a><p class="text-muted">Enxeñaría de Software</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Organización+e+Xestión+Empresarial&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Organización e Xestión Empresarial</h4>
+                                    </a><p class="text-muted">Organización e Xestión</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Programación+Orientada+a+Obxectos&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Programación Orientada a Obxectos</h4>
+                                    </a><p class="text-muted">Programación</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Redes&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Redes</h4>
+                                    </a><p class="text-muted">Materias Transversais</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Sistemas+Operativos+I&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Sistemas Operativos I</h4>
+                                    </a><p class="text-muted">Materias Transversais</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Sistemas+Operativos+II&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Sistemas Operativos II</h4>
+                                    </a><p class="text-muted">Materias Transversais</p>
+                                </div>
+                            </div>            </div>
+         </div>
+    </section>
+	
+	<!-- Sección de terceiro -->
+    <section id="terceiro">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">terceiro</h2><br><br>
+                </div>
+            </div>
+            <div class="row">
+            </div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Administración+Avanzada+de+Sistemas+e+Redes&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Administración Avanzada de Sistemas e Redes</h4>
+                                    </a><p class="text-muted">Administración e Xestión de Sistemas e Redes</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Administración+de+Sistemas+e+Redes&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Administración de Sistemas e Redes</h4>
+                                    </a><p class="text-muted">Administración e Xestión de Sistemas e Redes</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Computación+Distribuída&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Computación Distribuída</h4>
+                                    </a><p class="text-muted">Programación</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Desenvolvemento+de+Aplicacións+Web&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Desenvolvemento de Aplicacións Web</h4>
+                                    </a><p class="text-muted">Enxeñaría Web</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Deseño+de+Aplicacións+Web+Avanzadas&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Deseño de Aplicacións Web Avanzadas</h4>
+                                    </a><p class="text-muted">Enxeñaría Web</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Enxeñaría+de+Computadores&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Enxeñaría de Computadores</h4>
+                                    </a><p class="text-muted">Enxeñaría de Computadores</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Enxeñaría+de+Software&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Enxeñaría de Software</h4>
+                                    </a><p class="text-muted">Enxeñaría de Software</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Interacción+Persoa-Ordenador&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Interacción Persoa-Ordenador</h4>
+                                    </a><p class="text-muted">Materias Transversais</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Sistemas+Multimedia&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Sistemas Multimedia</h4>
+                                    </a><p class="text-muted">Materias Transversais</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Tecnoloxía+de+Redes&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Tecnoloxía de Redes</h4>
+                                    </a><p class="text-muted">Materias Transversais</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Teoría+de+Autómatas+e+Linguaxes+Formais&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Teoría de Autómatas e Linguaxes Formais</h4>
+                                    </a><p class="text-muted">Sistemas Intelixentes</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Xestión+de+Recursos+Humanos+e+Comportamento+Organizacional&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Xestión de Recursos Humanos e Comportamento Organizacional</h4>
+                                    </a><p class="text-muted">Organización e Xestión</p>
+                                </div>
+                            </div>            </div>
+         </div>
+    </section>
+
+	<!-- Sección de cuarto -->
+    <section id="cuarto" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">cuarto</h2><br><br>
+                </div>
+            </div>
+            <div class="row">
+            </div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Administración+de+Bases+de+Datos&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Administración de Bases de Datos</h4>
+                                    </a><p class="text-muted">Sistemas de Información</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Arquitecturas+Orientadas+a+Servizos&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Arquitecturas Orientadas a Servizos</h4>
+                                    </a><p class="text-muted">Enxeñaría Web</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Aspectos+Legais+e+Normativos+das+TIC&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Aspectos Legais e Normativos das TIC</h4>
+                                    </a><p class="text-muted">Organización e Xestión</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Calidade+do+Software&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Calidade do Software</h4>
+                                    </a><p class="text-muted">Enxeñaría de Software</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Compiladores+e+Intérpretes&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Compiladores e Intérpretes</h4>
+                                    </a><p class="text-muted">Enxeñaría de Computadores</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Computación+Ubicua&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Computación Ubicua</h4>
+                                    </a><p class="text-muted">Materias Transversais</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Enxeñaría+do+Coñecemento&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Enxeñaría do Coñecemento</h4>
+                                    </a><p class="text-muted">Sistemas Intelixentes</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Investigación+de+Operacións&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Investigación de Operacións</h4>
+                                    </a><p class="text-muted">Sistemas Intelixentes</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Programación+Declarativa&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Programación Declarativa</h4>
+                                    </a><p class="text-muted">Programación</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Programación+de+Sistemas+Multinúcleo+e+Multiproceso&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Programación de Sistemas Multinúcleo e Multiproceso</h4>
+                                    </a><p class="text-muted">Programación</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Recuperación+de+Información+e+Bases+Documentáis&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Recuperación de Información e Bases Documentáis</h4>
+                                    </a><p class="text-muted">Sistemas de Información</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Seguridade&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Seguridade</h4>
+                                    </a><p class="text-muted">Administración e Xestión de Sistemas e Redes</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Sistemas+Paralelos&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Sistemas Paralelos</h4>
+                                    </a><p class="text-muted">Enxeñaría de Computadores</p>
+                                </div>
+                            </div><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Xestión+de+Procesos+de+Negocio&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Xestión de Procesos de Negocio</h4>
+                                    </a><p class="text-muted">Enxeñaría Web</p>
+                                </div>
+                            </div></div><div class="row"><div class="col-md-6 col-sm-12 portfolio-item">
+                                <div class="portfolio-caption">
+                                    <a href="?q=Xestión+de+Proxectos+Informáticos&c=1" class="portfolio-link" data-toggle="modal">
+                                        <br><h4>Xestión de Proxectos Informáticos</h4>
+                                    </a><p class="text-muted">Organización e Xestión</p>
+                                </div>
+                            </div>            </div>
+         </div>
+    </section>
+    <!-- About Section
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Sobre o proxecto</h2><br><br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Xaneiro de 2013</h4>
+                                    <h4 class="subheading">rede social</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">O proxecto nace a principios de 2013 como unha rede social baseada na plataforma libre Elgg. O seu obxectivo principal é ofrecer unha vía de comunicación e a posibilidade de compartir distintos arquivos entre universitarios. Desestímase a continuación do proxecto.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/2.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Setembro de 2013</h4>
+                                    <h4 class="subheading">repositorio</h4>
+
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Debido á falta dunha plataforma para almacenar material dixital de forma ordeada do Grao en Enxeñaría Informática, lánzase unha plataforma de código propio. Comeza a funcionar a principios do curso universitario de 2013. É posible consultar arquivos, bibliografías e compartir documentos nun sinxelo repositorio.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Xuño de 2014</h4>
+                                    <h4 class="subheading">nova traxectoria</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">A idea orixinal de proxecto retómase ao entrar nun programa para emprendedores novos. Diríxese a toda a comunidade universitaria. Dous aspectos diferenciadores con respecto a outros servizos similares son: a sinxeleza de uso e a disposición ao usuarios de espazos de traballo virtuais, orientados á colaboración. O novo proxecto entra en pausa co inicio do curso académico de 2014.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Setembro de 2014</h4>
+                                    <h4 class="subheading">remodelación do repositorio</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Reescríbese o repositorio dende cero. Inclúense novas características e varias melloras como o buscador e a adaptación a dispositivos móbiles.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4>Unha<br>nova<br>startup</h4>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>-->
+    
+<!--
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">contacto</h2><br><br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <form name="sentMessage" id="contactForm" novalidate>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="Nome" id="name" required data-validation-required-message="Por favor, introduza o seu nome.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" class="form-control" placeholder="Correo electrónico" id="email" required data-validation-required-message="Por favor, introduza o seu enderezo electrónico.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="form-group">
+                                    <input type="tel" class="form-control" placeholder="Teléfono" id="phone">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <textarea class="form-control" placeholder="Mensaxe" id="message" required data-validation-required-message="Por favor, introduza unha mensaxe."></textarea>
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-lg-12 text-center">
+                                <div id="success"></div>
+                                <button type="submit" class="btn btn-xl">Enviar mensaxe</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+-->
+<section id="contact">
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">gradox.org</span>
+                </div>
+                <div class="col-md-4">
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li>v16.01.16 legacy</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Portfolio Modals -->
+    <!-- Use the modals below to showcase details about your portfolio projects! -->
+
+    <!-- Portfolio Modal 1 -->
+    <div class="portfolio-modal modal fade" id="popup" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div href="javascript:void(0)" onclick="window.location='/repo';" class="close-modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <!-- Project Details Go Here -->
+                            <h4><i>"15"</i></h4>
+							                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <form action="?" method="get" name="f1" accept-charset="UTF-8"> 
+        <input id="ruta" type="hidden" name="a" value=""> 
+    </form>
+
+    <script>
+        function descargar(ruta){
+            document.getElementById("ruta").value = ruta;
+            document.f1.submit();
+        }
+    </script>
+
+    <!-- jQuery Version 1.11.0 -->
+    <script src="js/jquery-1.11.0.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/agency.js"></script>
+
+    <!-- Google Analytics -->
+    <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+          ga('create', 'UA-46298258-1', 'gradox.es');
+          ga('send', 'pageview');
+    </script>
+
+</body>
+
+</html>
